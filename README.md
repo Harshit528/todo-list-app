@@ -18,7 +18,7 @@ pip install -r requirements.txt
 streamlit run todo.py
 
 ## 📸 Screenshot
-![App Screenshot]()
+![App Screenshot](https://github.com/Harshit528/todo-list-app/blob/main/Screenshot%202026-05-05%20120407.png)
 
 ## 🧰 Built With
 - Python 3
